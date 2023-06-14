@@ -12,10 +12,8 @@ Operational efficiency is also a focus of this project. Through the analysis of 
 
 Furthermore, the project evaluates the performance of the store across different cities or geographical locations. This analysis provides insights into customer behavior, preferences, and demands specific to each city, enabling us to customize our strategies and offerings accordingly.
 
+
 ## Key Findings
-
-
-![Screenshot (20)](https://github.com/pranitabhagat/Olist-Store-Analysis/assets/123992668/49cc94b5-8809-4d3d-a1e9-5e4ffdefd0b5)
 
 During the course of our analysis, we discovered several key insights that can help guide our decision-making process. Here are some of the notable findings:
 
@@ -40,6 +38,8 @@ During the course of our analysis, we discovered several key insights that can h
 5. Review Score and Shipping Days Relationship:
    - Faster shipping times positively impact customer satisfaction and online reviews.
    - Identifying areas for improvement in the shipping process can ensure timely deliveries without compromising quality.
+
+![Screenshot (31)](https://github.com/pranitabhagat/Olist-Store-Analysis/assets/123992668/7c5fb906-dc57-41fc-8dbf-046c71db4754)
 
 ## Conclusion
 
